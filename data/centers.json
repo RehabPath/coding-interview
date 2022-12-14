@@ -1,0 +1,128 @@
+[
+  {
+    "id": "de043f39-1055-4fc5-8f59-5ba42199ae11",
+    "isSponsor": true,
+    "image": "https://res.cloudinary.com/rehabpath/image/upload/c_fill,w_500,h_200/zzdzfztsrx0fi52sgn3t.jpg",
+    "name": "Studio 64 Recovery",
+    "location": "Burbank, California, United States",
+    "description": "An intensive outpatient program offering a flexible schedule for individual therapy and peer support for addiction and mental health.",
+    "whatWeTreat": [
+      "Alcohol",
+      "Cocaine",
+      "Benzodiazepines",
+      "Anxiety"
+    ]
+  },
+  {
+    "id": "1bed5030-609d-4526-a109-ba0ce6665085",
+    "isSponsor": true,
+    "image": "https://res.cloudinary.com/rehabpath/image/upload/c_fill,w_500,h_200/t55pjdwudyh2g7gzgezl.jpg",
+    "name": "2 California Center",
+    "location": "Malibu, California, United States",
+    "description": "Paradigm Teen Treatment is a teen and young adult rehab (ages 12-26) committed to treating mental health conditions.",
+    "whatWeTreat": [
+      "Alcohol",
+      "Codependency",
+      "Co-Occurring Disorders",
+      "ADHD, ADD"
+    ]
+  },
+  {
+    "id": "801840db-c7f6-4042-b275-c22fcb7d77fa",
+    "isSponsor": true,
+    "image": "https://res.cloudinary.com/rehabpath/image/upload/c_fill,w_500,h_200/c5dwjzr9oz8b83vapgyw.png",
+    "name": "Oro House Recovery",
+    "location": "Malibu, California, United States",
+    "description": "Oro House provides compassionate treatment and a continuum of services. Voted California's Best Addiction Treatment Center in 2020, 2021, and 2022 by Newsweek.",
+    "whatWeTreat": [
+      "Alcohol",
+      "Bipolar",
+      "Benzodiazepines",
+      "Cocaine"
+    ]
+  },
+  {
+    "id": "435c2972-f10a-448c-8e6c-4921b1938b3e",
+    "isSponsor": false,
+    "image": "https://res.cloudinary.com/rehabpath/image/upload/f_auto,c_fill,w_396,h_440/nav3fm1eiww9b5aztvjx.jpg",
+    "name": "Banyan Stuart",
+    "location": "Stuart, Florida, United States",
+    "description": "Located near the coast, Banyan Stuart is a medical detox center offering a variety of therapies while in recovery.",
+    "whatWeTreat": [
+      "Alcohol",
+      "Ecstasy (MDMA)",
+      "Benzodiazepines",
+      "Heroin"
+    ]
+  },
+  {
+    "id": "681df9e1-989d-48fe-953c-7a6a54aa2de0",
+    "isSponsor": true,
+    "image": "https://res.cloudinary.com/rehabpath/image/upload/c_fill,w_500,h_200/hntgwky9yxtkdnqwzofi.jpg",
+    "name": "Tikvah Lake Recovery",
+    "location": "Sebring, Florida, United States",
+    "description": "Tikvah Lake Recovery is an extremely personalized executive treatment center for those who seek the ultimate in treatment, privacy, and luxurious comfort.",
+    "whatWeTreat": [
+      "Marijuana",
+      "Alcohol",
+      "Methamphetamine",
+      "Co-Occurring Disorders"
+    ]
+  },
+  {
+    "id": "9588231d-ba02-4d2c-bd98-45babcac7a5d",
+    "isSponsor": false,
+    "image": "https://res.cloudinary.com/rehabpath/image/upload/f_auto,c_fill,w_396,h_440/synurbvmxzci0gsu1auu.webp",
+    "name": "Yatra Centre",
+    "location": "Phuket, Thailand",
+    "description": "A trauma care facility offering evidence-based, individualized care to clients with a range of mental health concerns.",
+    "whatWeTreat": [
+      "Chronic Relapse",
+      "Burnout",
+      "Anxiety",
+      "Stress"
+    ]
+  },
+  {
+    "id": "63800ba6-6059-44f6-bbad-75673898c54a",
+    "isSponsor": true,
+    "image": "https://res.cloudinary.com/rehabpath/image/upload/c_fill,w_500,h_200/s9c21gdeybf1okahj6at.jpg",
+    "name": "Holina Rehab",
+    "location": "Koh Phangan, Surat Thani, Thailand",
+    "description": "A recovery gem taking a holistic approach to treating addiction and mental health, blending Eastern and Western techniques in luxurious, sea-view bungalows.",
+    "whatWeTreat": [
+      "Alcohol",
+      "Benzodiazepines",
+      "Anxiety",
+      "Co-Occurring Disorders"
+    ]
+  },
+  {
+    "id": "0f7ced3e-b23b-4773-a814-a2a6f0934a32",
+    "isSponsor": false,
+    "image": "https://res.cloudinary.com/rehabpath/image/upload/c_fill,w_500,h_200/nq2i85xukfajqfmflxa1.jpg",
+    "name": "NEOVIVA",
+    "location": "Lake Lucerne, Switzerland",
+    "description": "An ultra private, boutique rehab situated on the world-famous Lake Lucerne in Switzerland catering to executives and high-profile clients.",
+    "whatWeTreat": [
+      "Alcohol",
+      "Benzodiazepines",
+      "Anxiety",
+      "Co-Occurring Disorders"
+    ]
+  },
+  {
+    "id": "b80bb255-5eb9-4ffb-9dec-7e56fb192818",
+    "isSponsor": true,
+    "image": "https://res.cloudinary.com/rehabpath/image/upload/c_fill,w_500,h_200/z7gqvsniyylhpolfghaz.jpg",
+    "name": "PROMIS Hay Farm",
+    "location": "Kent, England, United Kingdom",
+    "description": "Tucked away on 12 acres of farmland, PROMIS Hay Farm is a countryside home offering therapy, educational programmes, and luxury amenities.",
+    "whatWeTreat": [
+      "Eating Disorders",
+      "Anxiety",
+      "Alcohol",
+      "Benzodiazepines"
+    ]
+  }
+]
